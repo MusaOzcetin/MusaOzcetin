@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there, I'm Musa 👋
 
-<!--
-**MusaOzcetin/MusaOzcetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a highly motivated individual who is dedicated to self-improvement and gaining valuable experience in the workforce. 
 
-Here are some ideas to get you started:
+My passion lies in the field of information technology and I am consistently working to enhance my skill-set on a daily basis. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a self-learner, I am constantly seeking out new opportunities to learn and grow in order to make the most of each and every situation that comes my way.
+
+- 🔭 I’m currently enrolled in the Ctrl+Future Program which is organized by Koç Holding and Microsoft.
+  
+- 🌱 I’m currently learning algortihms, data structures, database and scrum thanks to Patika.dev
+  
+- 🏫 I’m studying MIS(Management Information Systems) at Boğaziçi University and this is my senior year.
+
+Intermediate Level Languages: JavaScript, PHP, SQL, Python
+Beginner Level Languages: Kotlin, Java
+
+- 📫 How to reach me: https://www.linkedin.com/in/musa-ozcetin/
