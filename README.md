@@ -13,6 +13,9 @@ As a self-learner, I am constantly seeking out new opportunities to learn and gr
 - 🏫 I’m studying MIS(Management Information Systems) at Boğaziçi University and this is my senior year.
 
 Intermediate Level Languages: JavaScript, PHP, SQL, Python
+
 Beginner Level Languages: Kotlin, Java
+
+I am also experienced in developing websites with web WordPress.
 
 - 📫 How to reach me: https://www.linkedin.com/in/musa-ozcetin/
