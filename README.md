@@ -16,6 +16,6 @@ Intermediate Level Languages: JavaScript, PHP, SQL, Python
 
 Beginner Level Languages: Kotlin, Java
 
-I am also experienced in developing websites with web WordPress.
+I am also experienced in developing websites with WordPress.
 
 - 📫 How to reach me: https://www.linkedin.com/in/musa-ozcetin/
