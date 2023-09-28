@@ -8,7 +8,7 @@ As a self-learner, I am constantly seeking out new opportunities to learn and gr
     
 - 🏫 I’m studying MIS(Management Information Systems) at Boğaziçi University and this is my senior year.
 
-Languages: PHP, SQL, C#
+Languages: PHP, SQL, C#, Kotlin
 
 Interests: Object Oriented Programming/Modelling, System Analysis/Design
 
